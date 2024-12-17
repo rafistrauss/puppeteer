@@ -20,6 +20,18 @@ All notable changes to this project will be documented in this file. See [standa
   * dependencies
     * @puppeteer/browsers bumped from 1.5.1 to 1.6.0
 
+## [23.11.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v23.10.4...puppeteer-core-v23.11.0) (2024-12-17)
+
+
+### Features
+
+* support reducedContrast in Page.emulateVisionDeficiency ([#13408](https://github.com/puppeteer/puppeteer/issues/13408)) ([18e3e6a](https://github.com/puppeteer/puppeteer/commit/18e3e6a42c9517bc3a283fdc23e5c454ad8d27fe))
+
+
+### Bug Fixes
+
+* include iframes into the a11y snapshot ([#12579](https://github.com/puppeteer/puppeteer/issues/12579)) ([a8152d4](https://github.com/puppeteer/puppeteer/commit/a8152d46101da918962555404e5a580e2696dd60))
+
 ## [23.10.4](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v23.10.3...puppeteer-core-v23.10.4) (2024-12-12)
 
 
